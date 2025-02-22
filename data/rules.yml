@@ -19,7 +19,7 @@ rules:
   - rule: Podaj menu
     steps:
       - intent: menu
-      - action: utter_menu
+      - action: action_menu
 
   - rule: Potwierdz zamówienie
     steps:

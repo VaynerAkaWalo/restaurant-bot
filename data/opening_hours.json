@@ -1,0 +1,12 @@
+{
+  "items":
+  {
+    "Poniedzialek": {"open":8,"close":20 },
+    "Wtorek": {"open":8,"close":20 },
+    "Środa": {"open":10,"close":16 },
+    "Czwartek": {"open":8,"close":20 },
+    "Piątek": {"open":8,"close":20 },
+    "Sobota": {"open":10,"close":16 },
+    "Niedziela": {"open":0,"close":0 }
+  }
+}

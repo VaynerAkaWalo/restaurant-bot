@@ -27,12 +27,14 @@ responses:
   utter_open_hours:
     - text: "Jesteśmy otwarci codziennie od 8:00 do 20:00"
 
-  utter_menu:
-    - text: "W naszym menu mamy:\n-Burger\n-Pizza\n-Kebab"
+#  utter_menu:
+#    - text: "W naszym menu mamy:\n{menu}"
 
   utter_order:
     - text: "Przyjąłem, twoje zamównie to {dish}. Dziękujemy!"
 
+actions:
+  - action_menu
 
 session_config:
   session_expiration_time: 60

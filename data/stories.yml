@@ -16,7 +16,7 @@ stories:
   - intent: greet
   - action: utter_greet
   - intent: menu
-  - action: utter_menu
+  - action: action_menu
   - intent: order_meal
   - action: utter_order
   - intent: goodbye
