@@ -35,7 +35,7 @@ nlu:
 - intent: open_hours
   examples: |
     - w jakich godzinach jesteście otwarci?
-    - podaj godziny otwarcia w [Piątek](day)
+    - o której zamykacie?
     - do której jesteście otwarci?
 
 - intent: menu

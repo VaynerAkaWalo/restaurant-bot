@@ -7,7 +7,7 @@ stories:
   - intent: greet
   - action: utter_greet
   - intent: open_hours
-  - action: utter_open_hours
+  - action: action_open_hours
   - intent: goodbye
   - action: utter_goodbye
 

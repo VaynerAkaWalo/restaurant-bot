@@ -14,7 +14,7 @@ rules:
   - rule: Podaj godziny otwarcia
     steps:
       - intent: open_hours
-      - action: utter_open_hours
+      - action: action_open_hours
 
   - rule: Podaj menu
     steps:
